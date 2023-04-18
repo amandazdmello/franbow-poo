@@ -1,4 +1,4 @@
-package br.com.amandazdmello.dominio;
+package br.com.amandazdmello.franbowpoo.dominio;
 
 import java.util.ArrayList;
 import java.util.List;

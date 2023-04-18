@@ -1,4 +1,4 @@
-package br.com.amandazdmello.dominio;
+package br.com.amandazdmello.franbowpoo.dominio;
 
 public class Item {
 

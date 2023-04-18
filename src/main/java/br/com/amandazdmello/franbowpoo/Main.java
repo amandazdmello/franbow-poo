@@ -1,6 +1,6 @@
-package br.com.amandazdmello;
+package br.com.amandazdmello.franbowpoo;
 
-import br.com.amandazdmello.dominio.*;
+import br.com.amandazdmello.franbowpoo.dominio.*;
 
 public class Main {
     public static void main(String[] args) {
