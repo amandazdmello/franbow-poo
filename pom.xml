@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.amandazdmello</groupId>
-    <artifactId>poo-franbow</artifactId>
+    <artifactId>franbow-poo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
